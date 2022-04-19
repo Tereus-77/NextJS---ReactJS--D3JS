@@ -13,10 +13,6 @@ Este es un projecto [Next.js](https://nextjs.org/) "bootstrapped" con [`create-n
 ### Instalación
 
 ```bash
-cd VSC_000002_CCS
-```
-
-```bash
 cd guia
 ```
 
@@ -36,14 +32,4 @@ npm run build
 ```
 
 Luego abrir [http://localhost:3000](http://localhost:3000) con su navegador para ver el resultado.
-
-### Deploy
-
-```bash
-cd VSC_000002_CCS
-```
-
-```bash
-docker-compose up --build -d
-```
 
