@@ -1,2 +1,0 @@
-# VSC_000002_CCS
-React JS Next JS
