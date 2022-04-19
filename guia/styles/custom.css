@@ -1,0 +1,70 @@
+.stop-left {
+    stop-color: #2FAC66;  /* Indigo */
+}
+
+.stop-right {
+    stop-color: #82368C;  /* Teal */
+}
+
+.stop-left-reverse {
+    stop-color: #82368C;  /* Indigo */
+}
+
+.stop-right-reverse {
+    stop-color: #2FAC66;  /* Teal */
+}
+
+.filled {
+    fill: url(#mainGradient);
+}
+
+.outlined {
+    fill:   none;
+    stroke: url(#mainGradient);
+    stroke-width: 3;
+}
+
+.sen-stop-left {
+    stop-color: #22B573;  /* Indigo */
+}
+
+.stop-right {
+    stop-color: #90278D;  /* Teal */
+}
+
+.filledOther {
+    fill: url(#otherGradient);
+}
+
+.outlinedOther {
+    fill:   none;
+    stroke: url(#otherGradient);
+    stroke-width: 4;
+}
+@font-face {
+  font-family: 'Oswald';
+  src: local('Oswald'), url(../public/fonts/oswald-v40-latin-500.woff) format('woff');
+
+}
+
+.dotMandante {
+  height: 25px;
+  width: 25px;
+  background-color: #9E6F9E;
+  border-radius: 50%;
+  display: inline-block;
+}
+.dotProveedor {
+  height: 25px;
+  width: 25px;
+  background-color: #D9E021;
+  border-radius: 50%;
+  display: inline-block;
+}
+.dotCompartido {
+  height: 25px;
+  width: 25px;
+  background-color: #B3BABD;
+  border-radius: 50%;
+  display: inline-block;
+}

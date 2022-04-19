@@ -1,0 +1,10 @@
+const arrayPracticaDetalle = [];
+arrayPracticaDetalle[0] = 'Leyes sociales';
+arrayPracticaDetalle[1] = 'Salud y seguridad ocupacional';
+arrayPracticaDetalle[2] = 'Trabajo infantil';
+arrayPracticaDetalle[3] = 'Trabajo esclavo';
+arrayPracticaDetalle[4] = 'Normativa ambiental';
+arrayPracticaDetalle[5] = 'Normativas de transparencia e integridad';
+arrayPracticaDetalle[6] = 'Viabilidad y transparencia financiera';
+arrayPracticaDetalle[7] = 'Normativas libertad de asociación';  
+

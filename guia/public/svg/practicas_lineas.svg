@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1080 1080" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-miterlimit:10;">
+    <g transform="matrix(0,-1,-1,0,536.014,25.5005)">
+        <path d="M-514.5,-514.5C-798.65,-514.5 -1029,-284.15 -1029,0C-1029,284.15 -798.65,514.5 -514.5,514.5C-230.35,514.5 0,284.15 0,0C0,-284.15 -230.35,-514.5 -514.5,-514.5Z" style="fill:none;fill-rule:nonzero;stroke:rgb(142,148,144);stroke-width:1px;stroke-dasharray:4,4;"/>
+    </g>
+    <g transform="matrix(0,-1,-1,0,536.014,80.0005)">
+        <path d="M-460,-460C-714.051,-460 -920,-254.051 -920,0C-920,254.052 -714.051,460 -460,460C-205.949,460 0,254.052 0,0C0,-254.051 -205.949,-460 -460,-460Z" style="fill:none;fill-rule:nonzero;stroke:rgb(142,148,144);stroke-width:1px;stroke-dasharray:4,4;"/>
+    </g>
+    <g transform="matrix(0,-1,-1,0,536.014,93.5005)">
+        <path d="M-446.5,-446.5C-693.095,-446.5 -893,-246.595 -893,0C-893,246.596 -693.095,446.5 -446.5,446.5C-199.904,446.5 0,246.596 0,0C0,-246.595 -199.904,-446.5 -446.5,-446.5Z" style="fill:none;fill-rule:nonzero;stroke:rgb(142,148,144);stroke-width:1px;stroke-dasharray:4,4;"/>
+    </g>
+    <g transform="matrix(0,-1,-1,0,536.014,157.501)">
+        <path d="M-382.5,-382.5C-593.749,-382.5 -765,-211.249 -765,0C-765,211.249 -593.749,382.5 -382.5,382.5C-171.251,382.5 0,211.249 0,0C0,-211.249 -171.251,-382.5 -382.5,-382.5Z" style="fill:none;fill-rule:nonzero;stroke:rgb(142,148,144);stroke-width:1px;stroke-dasharray:4,4;"/>
+    </g>
+    <g transform="matrix(0,-1,-1,0,536.014,170.751)">
+        <path d="M-369.25,-369.25C-573.181,-369.25 -738.5,-203.931 -738.5,0C-738.5,203.932 -573.181,369.25 -369.25,369.25C-165.318,369.25 0,203.932 0,0C0,-203.931 -165.318,-369.25 -369.25,-369.25Z" style="fill:none;fill-rule:nonzero;stroke:rgb(142,148,144);stroke-width:1px;stroke-dasharray:4,4;"/>
+    </g>
+    <g transform="matrix(0,-1,-1,0,536.014,234.501)">
+        <path d="M-305.5,-305.5C-474.223,-305.5 -611,-168.723 -611,0C-611,168.724 -474.223,305.5 -305.5,305.5C-136.777,305.5 0,168.724 0,0C0,-168.723 -136.777,-305.5 -305.5,-305.5Z" style="fill:none;fill-rule:nonzero;stroke:rgb(142,148,144);stroke-width:1px;stroke-dasharray:4,4;"/>
+    </g>
+    <g transform="matrix(0,-1,-1,0,536.014,248.001)">
+        <path d="M-292,-292C-453.267,-292 -584,-161.267 -584,0C-584,161.268 -453.267,292 -292,292C-130.732,292 0,161.268 0,0C0,-161.267 -130.732,-292 -292,-292Z" style="fill:none;fill-rule:nonzero;stroke:rgb(142,148,144);stroke-width:1px;stroke-dasharray:4,4;"/>
+    </g>
+    <g transform="matrix(0,-1,-1,0,536.014,311.901)">
+        <path d="M-228.1,-228.1C-354.076,-228.1 -456.2,-125.976 -456.2,0C-456.2,125.976 -354.076,228.1 -228.1,228.1C-102.123,228.1 0,125.976 0,0C0,-125.976 -102.123,-228.1 -228.1,-228.1Z" style="fill:none;fill-rule:nonzero;stroke:rgb(142,148,144);stroke-width:1px;stroke-dasharray:4,4;"/>
+    </g>
+    <g transform="matrix(0,-1,-1,0,536.014,325.251)">
+        <path d="M-214.75,-214.75C-333.354,-214.75 -429.5,-118.603 -429.5,0C-429.5,118.604 -333.354,214.75 -214.75,214.75C-96.146,214.75 0,118.604 0,0C0,-118.603 -96.146,-214.75 -214.75,-214.75Z" style="fill:none;fill-rule:nonzero;stroke:rgb(142,148,144);stroke-width:1px;stroke-dasharray:4,4;"/>
+    </g>
+    <g transform="matrix(0,-1,-1,0,536.014,389.151)">
+        <circle cx="-150.85" cy="0" r="150.85" style="fill:none;stroke:rgb(142,148,144);stroke-width:1px;stroke-dasharray:4,4;"/>
+    </g>
+    <g transform="matrix(0,-1,-1,0,536.014,402.727)">
+        <ellipse cx="-137.274" cy="0" rx="137.273" ry="137.274" style="fill:none;stroke:rgb(142,148,144);stroke-width:1px;stroke-dasharray:4,4;"/>
+    </g>
+    <g transform="matrix(0,-1,-1,0,536.014,489.209)">
+        <ellipse cx="-50.792" cy="0" rx="50.791" ry="50.792" style="fill:none;stroke:rgb(142,148,144);stroke-width:1px;stroke-dasharray:4,4;"/>
+    </g>
+</svg>

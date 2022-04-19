@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 319 315" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-400.32,-63.5034)">
+        <g transform="matrix(-0.153229,-0.988191,0.988191,-0.153229,403.687,435.96)">
+            <text x="302.033px" y="112.353px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:10px;fill:white;">Necesidad</text>
+        </g>
+        <g transform="matrix(0.281955,-0.959428,0.959428,0.281955,309.126,381.454)">
+            <text x="302.033px" y="107.189px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:10px;fill:white;">Solicitud del</text>
+            <text x="302.033px" y="117.517px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:10px;fill:white;">pedido</text>
+        </g>
+        <g transform="matrix(0.680205,-0.733022,0.733022,0.680205,242.373,287.055)">
+            <text x="302.033px" y="107.189px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:10px;fill:white;">Fuentes de</text>
+            <text x="302.033px" y="117.517px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:10px;fill:white;">aprovisionamiento</text>
+        </g>
+        <g transform="matrix(0.887027,-0.461718,0.461718,0.887027,228.391,209.139)">
+            <text x="302.033px" y="102.026px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:10px;fill:white;">Creación y seguimiento de</text>
+            <text x="302.033px" y="112.353px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:10px;fill:white;">ordenes de compra/</text>
+            <text x="302.033px" y="122.68px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:10px;fill:white;">contrato</text>
+        </g>
+        <g transform="matrix(0.999064,-0.0432461,0.0432461,0.999064,246.991,100.506)">
+            <text x="302.033px" y="107.189px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:10px;fill:white;">Ejecución del servicio de</text>
+            <text x="302.033px" y="117.517px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:10px;fill:white;">administración de contrato</text>
+        </g>
+        <g transform="matrix(0.924294,0.381682,-0.381682,0.924294,312.127,13.8529)">
+            <text x="302.033px" y="107.189px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:10px;fill:white;">Recepción de mercancías y recepción</text>
+            <text x="302.033px" y="117.517px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:10px;fill:white;">del servicio</text>
+        </g>
+        <g transform="matrix(0.707107,0.707107,-0.707107,0.707107,395.952,-33.976)">
+            <text x="302.033px" y="112.353px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:10px;fill:white;">Recepción de facturas</text>
+        </g>
+        <g transform="matrix(0.341832,0.939761,-0.939761,0.341832,506.26,-48.9706)">
+            <text x="302.033px" y="112.353px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:10px;fill:white;">V<tspan x="308.151px 313.713px " y="112.353px 112.353px ">er</tspan>iﬁcación de facturas</text>
+        </g>
+        <g transform="matrix(-0.0601517,0.998189,-0.998189,-0.0601517,602.298,-17.1028)">
+            <text x="302.033px" y="112.353px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:10px;fill:white;">Proceso de pago</text>
+        </g>
+        <g transform="matrix(-0.449993,0.893032,-0.893032,-0.449993,677.515,47.5111)">
+            <text x="302.033px" y="112.353px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:10px;fill:white;">Evaluación y cierre</text>
+        </g>
+    </g>
+</svg>
